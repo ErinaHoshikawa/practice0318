@@ -38,3 +38,4 @@ https://nori2tae.notion.site/Git-with-VSCode-60f55fbdfd92423a976d02147b830d4d
 しか
 かば
 ばく
+くま
